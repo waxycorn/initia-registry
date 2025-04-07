@@ -8,7 +8,7 @@
 export interface ChainProfile {
   name: string;
   pretty_name: string;
-  category: "DeFi" | "Social" | "NFT" | "Gaming" | "Portfolio" | "AI" | "Other";
+  category: "DeFi" | "Social" | "NFT" | "Gaming" | "Portfolio" | "AI" | "Others";
   /**
    * @maxItems 3
    */
