@@ -8,7 +8,7 @@ const info: AssetList = {
       denom_units: [
         {
           denom:
-            "l2/025e02154bf24211cdceb46a81e37cdc9d3c0d5dca472f69354621d3b3169b0f",
+            "l2/d783cfbe601b8be3a12a90a0d4d2869b3e88a9e98c27e89e146890664e051bf2",
           exponent: 0,
         },
         {
@@ -16,7 +16,7 @@ const info: AssetList = {
           exponent: 6,
         },
       ],
-      base: "l2/025e02154bf24211cdceb46a81e37cdc9d3c0d5dca472f69354621d3b3169b0f",
+      base: "l2/d783cfbe601b8be3a12a90a0d4d2869b3e88a9e98c27e89e146890664e051bf2",
       display: "INIT",
       traces: [
         {
@@ -26,7 +26,7 @@ const info: AssetList = {
             chain_name: "initia",
           },
           chain: {
-            bridge_id: "823",
+            bridge_id: "1175",
           },
         },
       ],
