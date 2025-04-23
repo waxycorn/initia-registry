@@ -14,6 +14,7 @@ import * as _infinityg from "./infinityg";
 import * as _inertia_legacy from "./inertia_legacy";
 import * as _inertia from "./inertia";
 import * as _embr from "./embr";
+import * as _embrtestnet from "./embrtestnet";
 import * as _echelon from "./echelon";
 import * as _culinaris from "./culinaris";
 import * as _civitia from "./civitia";
@@ -33,6 +34,7 @@ const chains: Chain[] = [
   _inertia_legacy.chain,
   _inertia.chain,
   _embr.chain,
+  _embrtestnet.chain,
   _echelon.chain,
   _culinaris.chain,
   _civitia.chain,
