@@ -12,6 +12,7 @@ export * as infinityg from "./infinityg";
 export * as inertia_legacy from "./inertia_legacy";
 export * as inertia from "./inertia";
 export * as embr from "./embr";
+export * as embrtestnet from "./embrtestnet";
 export * as echelon from "./echelon";
 export * as culinaris from "./culinaris";
 export * as civitia from "./civitia";
